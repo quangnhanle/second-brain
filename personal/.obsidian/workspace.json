@@ -11,14 +11,10 @@
             "id": "7e15ea1d5e54fe92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "New tab"
             }
           }
         ]
@@ -31,10 +27,14 @@
             "id": "6f83a699ab407186",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "main.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "main"
             }
           }
         ]
@@ -180,13 +180,23 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "e8cc5092ff717ae9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 396.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +206,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "7e15ea1d5e54fe92",
   "lastOpenFiles": [
-    "Welcome.md"
+    "main.md",
+    "Welcome.md",
+    "Paper/Paper.md",
+    "Paper",
+    "Investment/Investment.md",
+    "Investment",
+    "Ielts/IELTS.md",
+    "Ielts",
+    "Book/Book.md",
+    "Book"
   ]
 }
