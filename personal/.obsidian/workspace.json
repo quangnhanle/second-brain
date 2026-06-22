@@ -4,40 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8620102675dcc1c7",
+        "id": "ef227624e598bbcc",
         "type": "tabs",
         "children": [
           {
-            "id": "7e15ea1d5e54fe92",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0c58e192ff9525ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6f83a699ab407186",
+            "id": "6c8a1bd20bfffdf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main.md",
+                "file": "Ielts/IELTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "main"
+              "title": "IELTS"
+            }
+          },
+          {
+            "id": "39252b1d22ef3324",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ielts/Reading/Mẫu phân tích bài đọc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mẫu phân tích bài đọc"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,37 +189,85 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "5bdcd122391e78f2",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 430.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "realclaudian:Open Claudian": false,
+      "graph:Open graph view": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7e15ea1d5e54fe92",
+  "active": "e8cc5092ff717ae9",
   "lastOpenFiles": [
-    "main.md",
-    "Welcome.md",
-    "Paper/Paper.md",
-    "Paper",
-    "Investment/Investment.md",
-    "Investment",
+    "Ielts/Reading/Mẫu phân tích bài đọc.md",
+    "Ielts/Reading/Sentences structure.md",
+    "Ielts/Reading/Reading.md",
+    "Ielts/Reading/Kỹ thuật phân tích câu IELTS.md",
+    "Ielts/Reading/Sentences structure.md.tmp.9068.0f629597691e",
     "Ielts/IELTS.md",
-    "Ielts",
-    "Book/Book.md",
-    "Book"
+    "Ielts/Reading",
+    "main.md",
+    "Notion/Notes/Chapter 2 Protocols/HTTP-3.md",
+    "Notion/Notes/Chapter 2 Protocols/HTTP-2.md",
+    "Notion/Notes/Chapter 2 Protocols/gRPC.md",
+    "Notion/Notes/Chapter 1 BE Communication Design Pattern/Stateful vs Stateless.md",
+    "Chapter_1_(1).pdf",
+    "image 1 5.png",
+    "image 1 4.png",
+    "image 1 3.png",
+    "image 1 2.png",
+    "Notion/Notes/Interview/Grok.md",
+    "Notion/Notes/Interview/ChatGPT.md",
+    "Notion/Notes.md",
+    "Notion/Notes/Chapter 1 BE Communication Design Pattern/Publish Subscribe (Pub- Sub).md",
+    "Notion/Notes/Chapter 1- BE Communication Design Pattern.md",
+    "Notion/Notes/Chapter 3 Backend Execution Patterns/The Process and The Thread and how they compete for CPU time.md",
+    "Notion/Notes/Chapter 3- Backend Execution Patterns.md",
+    "image 5 8.png",
+    "image 4 9.png",
+    "image 3 10.png",
+    "image 2 11.png",
+    "image 1 15.png",
+    "image 27.png",
+    "Notion/Notes/Chapter 6 Kiến thức luyện đi phỏng vấn/Một ngôn ngữ chính (Depth Breadth)/Java/1.4. Access Modifiers in Java.md",
+    "Notion/Notes/Chapter 6 Kiến thức luyện đi phỏng vấn/Một ngôn ngữ chính (Depth Breadth)/Java/1.3. Java Methods.md",
+    "Notion/Notes/Chapter 6 Kiến thức luyện đi phỏng vấn/Một ngôn ngữ chính (Depth Breadth)/Java/1.2 Kiến thức cơ bản về lập trình Java.md",
+    "Notion/Notes/Chapter 6 Kiến thức luyện đi phỏng vấn/Một ngôn ngữ chính (Depth Breadth)/Java/1.1. Giới thiệu về Java.md",
+    "Notion/Notes/Chapter 6 Kiến thức luyện đi phỏng vấn/Một ngôn ngữ chính (Depth Breadth)/Java.md",
+    "Notion/Notes/Chapter 6 Kiến thức luyện đi phỏng vấn/Data Structures & Algorithms (DSA)/Frequency Map.md",
+    "Notion/Notes/Chapter 6 Kiến thức luyện đi phỏng vấn/Data Structures & Algorithms (DSA)/Prefix Sum.md",
+    "Notion/Notes/Chapter 6 Kiến thức luyện đi phỏng vấn/Data Structures & Algorithms (DSA)/Sliding window.md",
+    "Notion/Notes/Chapter 6 Kiến thức luyện đi phỏng vấn/Data Structures & Algorithms (DSA)/Two pointer.md",
+    "FundamentalsofBackendEngineering.pdf",
+    "Notion/Notes/Chapter 6 Kiến thức luyện đi phỏng vấn/Một ngôn ngữ chính (Depth Breadth)/Java",
+    "Notion/Notes/Chapter 6 Kiến thức luyện đi phỏng vấn/Một ngôn ngữ chính (Depth Breadth)",
+    "Notion/Notes/Chapter 6 Kiến thức luyện đi phỏng vấn/Data Structures & Algorithms (DSA)",
+    "Notion/Notes/Saigon FC",
+    "Notion/Notes/Interview",
+    "Notion/Notes/Chapter 6 Kiến thức luyện đi phỏng vấn"
   ]
 }
