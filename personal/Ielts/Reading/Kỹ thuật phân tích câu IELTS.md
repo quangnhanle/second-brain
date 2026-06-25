@@ -23,13 +23,13 @@ Mọi câu dài đều có **một mệnh đề chính (main clause)**. Tìm nó
 
 Khi đọc câu dài, hãy đặt dấu ngoặc quanh các khối sau để cô lập khung chính:
 
-| Khối cần tách | Dấu hiệu nhận biết | Vai trò |
-|---------------|--------------------|---------|
-| **Mệnh đề quan hệ** | *who, which, that, whose, where, when* | Bổ nghĩa cho danh từ |
-| **Mệnh đề trạng ngữ** | *because, although, when, if, while, since, despite...* | Chỉ lý do/thời gian/điều kiện |
-| **Cụm giới từ (prepositional phrase)** | *in, on, at, by, with, from, of...* | Bổ sung hoàn cảnh |
-| **Cụm phân từ (participle phrase)** | V-ing / V-ed đứng đầu hoặc giữa câu | Rút gọn mệnh đề |
-| **Phần chèn (appositive)** | nằm giữa 2 dấu phẩy, dấu gạch ngang, hoặc ngoặc đơn | Giải thích thêm cho danh từ |
+| Khối cần tách                          | Dấu hiệu nhận biết                                      | Vai trò                       |
+| -------------------------------------- | ------------------------------------------------------- | ----------------------------- |
+| **Mệnh đề quan hệ**                    | *who, which, that, whose, where, when*                  | Bổ nghĩa cho danh từ          |
+| **Mệnh đề trạng ngữ**                  | *because, although, when, if, while, since, despite...* | Chỉ lý do/thời gian/điều kiện |
+| **Cụm giới từ (prepositional phrase)** | *in, on, at, by, with, from, of...*                     | Bổ sung hoàn cảnh             |
+| **Cụm phân từ (participle phrase)**    | V-ing / V-ed đứng đầu hoặc giữa câu                     | Rút gọn mệnh đề               |
+| **Phần chèn (appositive)**             | nằm giữa 2 dấu phẩy, dấu gạch ngang, hoặc ngoặc đơn     | Giải thích thêm cho danh từ   |
 
 **Ví dụ phần chèn (appositive):**
 > *Einstein, **a German-born physicist**, developed the theory of relativity.*

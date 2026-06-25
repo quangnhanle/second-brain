@@ -1,0 +1,30 @@
+# =====================================================================
+# Obsidian vault .gitignore
+# Lưu ý: nội dung vault nằm trong personal/, nên dùng "**/" để pattern
+# khớp ở mọi cấp thư mục (không neo cứng vào gốc repo).
+# =====================================================================
+
+# ---- Obsidian ----
+# Bỏ qua workspace & cache (thay đổi liên tục, không cần version)
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/cache/
+**/.trash/
+# Giữ lại các cấu hình quan trọng (app.json, appearance, themes,
+# plugins, hotkeys, graph.json...) — vẫn được commit bình thường.
+
+# ---- Claudian / Claude ----
+# Bỏ qua phiên hội thoại (transient); giữ lại file cấu hình.
+**/.claudian/sessions/
+**/.claude/
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Editor / Temp ----
+*.tmp
+*.bak
+*~
+*.swp
