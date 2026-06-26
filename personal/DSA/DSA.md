@@ -1,0 +1,7 @@
+[[Array, String, HashMap]]
+[[Stack, Queue, Deque]]
+[[Tree (Binary Tree, BST), Trie]]
+[[Graph (BFS, DFS, Topological Sort)]]
+[[Heap, Priority Queue]]
+[[Recursion, Backtracking]]
+[[Dynamic Programming]]
