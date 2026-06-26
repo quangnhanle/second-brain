@@ -1,7 +1,7 @@
 {
   "biggerIcons": "mobile",
   "clickableIcons": "desktop",
-  "showAllFileIcons": false,
+  "showAllFileIcons": true,
   "showAllFolderIcons": false,
   "minimalFolderIcons": true,
   "showMarkdownTabIcons": true,
@@ -14,7 +14,7 @@
   "showItemName": "desktop",
   "biggerSearchResults": "mobile",
   "maxSearchResults": 50,
-  "colorPicker1": "list",
+  "colorPicker1": "rgb",
   "colorPicker2": "rgb",
   "uncolorHover": false,
   "uncolorDrag": false,
@@ -23,16 +23,51 @@
   "maxBackups": 2,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": false,
+    "emojiMode": true,
     "rulePage": "file"
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "Book": {
+      "icon": "📚"
+    },
+    "DSA": {
+      "icon": "🧠"
+    },
+    "Ielts": {
+      "icon": "🚖"
+    },
+    "Investment": {
+      "icon": "💰"
+    },
+    "Paper": {
+      "icon": "📰"
+    },
+    "main.md": {
+      "icon": "🌏"
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},
   "ribbonIcons": {},
-  "fileRules": [],
+  "fileRules": [
+    {
+      "id": "h7umk",
+      "name": "File",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "filename",
+          "operator": "endsWith",
+          "value": "md"
+        }
+      ],
+      "enabled": true,
+      "color": "#777879",
+      "icon": "lucide-notebook-text"
+    }
+  ],
   "folderRules": []
 }

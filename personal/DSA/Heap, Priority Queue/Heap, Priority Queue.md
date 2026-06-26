@@ -22,11 +22,11 @@
 ### 2.1. Heap được lưu thế nào? (Mảng ngầm)
 Heap là **cây nhị phân hoàn chỉnh** nên không cần con trỏ — nó được nhúng gọn vào **một mảng** theo thứ tự duyệt theo tầng. Với node ở chỉ số `i` (0-based):
 
-| Quan hệ | Công thức |
-| --- | --- |
-| Cha (parent) | `(i - 1) / 2` |
-| Con trái (left) | `2*i + 1` |
-| Con phải (right) | `2*i + 2` |
+| Quan hệ          | Công thức     |
+| ---------------- | ------------- |
+| Cha (parent)     | `(i - 1) / 2` |
+| Con trái (left)  | `2*i + 1`     |
+| Con phải (right) | `2*i + 2`     |
 
 → Đây là lý do heap rất nhanh và tiết kiệm bộ nhớ: mọi thao tác chỉ là nhảy chỉ số trên mảng.
 
