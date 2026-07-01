@@ -1,0 +1,296 @@
+{
+  "_version": 2,
+  "activePlannerId": "planner-1782878584535",
+  "rootPlannerFolder": "Teacher Planner",
+  "gridLineColour": "theme:border",
+  "gridLineWeight": 1,
+  "blockBorderColour": "theme:border",
+  "blockBorderWeight": 1,
+  "confirmBeforeDelete": true,
+  "weekNoteOpenIn": "tab",
+  "todayHighlightColour": "theme:accent",
+  "planners": [
+    {
+      "id": "planner-1782878584535",
+      "name": "Quantitative Finance",
+      "plannerFolder": "Teacher Planner/Quantitative Finance",
+      "academicYear": {
+        "id": "ay-1782878584535",
+        "name": "Quantitative Finance",
+        "startDate": "2026-07-01",
+        "endDate": "2026-11-01",
+        "periods": [
+          {
+            "id": "before-school",
+            "name": "Before School",
+            "start": "07:30",
+            "end": "08:30",
+            "type": "administration"
+          },
+          {
+            "id": "registration",
+            "name": "Registration",
+            "start": "08:30",
+            "end": "09:00",
+            "type": "registration"
+          },
+          {
+            "id": "period-1",
+            "name": "Period 1",
+            "start": "09:00",
+            "end": "10:00",
+            "type": "lesson"
+          },
+          {
+            "id": "break-1",
+            "name": "Break",
+            "start": "10:00",
+            "end": "10:30",
+            "type": "break"
+          },
+          {
+            "id": "period-2",
+            "name": "Period 2",
+            "start": "10:30",
+            "end": "11:30",
+            "type": "lesson"
+          },
+          {
+            "id": "period-3",
+            "name": "Period 3",
+            "start": "11:30",
+            "end": "12:30",
+            "type": "lesson"
+          },
+          {
+            "id": "lunch",
+            "name": "Lunch",
+            "start": "12:30",
+            "end": "13:00",
+            "type": "break"
+          },
+          {
+            "id": "period-4",
+            "name": "Period 4",
+            "start": "13:00",
+            "end": "14:00",
+            "type": "lesson"
+          },
+          {
+            "id": "period-5",
+            "name": "Period 5",
+            "start": "14:00",
+            "end": "15:00",
+            "type": "lesson"
+          },
+          {
+            "id": "after-school",
+            "name": "After School",
+            "start": "15:00",
+            "end": "19:00",
+            "type": "administration"
+          }
+        ],
+        "abWeekEnabled": false,
+        "abWeekStartsOn": "A",
+        "daySchedules": [
+          {
+            "id": "schedule-standard",
+            "name": "Standard day",
+            "periods": [
+              {
+                "id": "before-school",
+                "name": "Before School",
+                "start": "07:30",
+                "end": "08:30",
+                "type": "administration"
+              },
+              {
+                "id": "registration",
+                "name": "Registration",
+                "start": "08:30",
+                "end": "09:00",
+                "type": "registration"
+              },
+              {
+                "id": "period-1",
+                "name": "Period 1",
+                "start": "09:00",
+                "end": "10:00",
+                "type": "lesson"
+              },
+              {
+                "id": "break-1",
+                "name": "Break",
+                "start": "10:00",
+                "end": "10:30",
+                "type": "break"
+              },
+              {
+                "id": "period-2",
+                "name": "Period 2",
+                "start": "10:30",
+                "end": "11:30",
+                "type": "lesson"
+              },
+              {
+                "id": "period-3",
+                "name": "Period 3",
+                "start": "11:30",
+                "end": "12:30",
+                "type": "lesson"
+              },
+              {
+                "id": "lunch",
+                "name": "Lunch",
+                "start": "12:30",
+                "end": "13:00",
+                "type": "break"
+              },
+              {
+                "id": "period-4",
+                "name": "Period 4",
+                "start": "13:00",
+                "end": "14:00",
+                "type": "lesson"
+              },
+              {
+                "id": "period-5",
+                "name": "Period 5",
+                "start": "14:00",
+                "end": "15:00",
+                "type": "lesson"
+              },
+              {
+                "id": "after-school",
+                "name": "After School",
+                "start": "15:00",
+                "end": "19:00",
+                "type": "administration"
+              }
+            ]
+          }
+        ],
+        "dayScheduleMap": {}
+      },
+      "periodTypes": [
+        {
+          "id": "lesson",
+          "label": "Lesson",
+          "colour": "theme:muted"
+        },
+        {
+          "id": "break",
+          "label": "Break",
+          "colour": "theme:accent"
+        },
+        {
+          "id": "registration",
+          "label": "Registration",
+          "colour": "theme:faint"
+        },
+        {
+          "id": "administration",
+          "label": "Administration",
+          "colour": "theme:surface"
+        }
+      ],
+      "subjects": [],
+      "classes": [],
+      "timetable": [],
+      "timetableTemplates": [
+        {
+          "id": "template-default",
+          "name": "Default Timetable",
+          "startDate": "2026-07-01",
+          "endDate": "2026-11-01",
+          "slots": []
+        }
+      ],
+      "weekOverrides": [],
+      "activities": [
+        {
+          "id": "activity-cover",
+          "label": "Cover",
+          "colour": "#e05555",
+          "activityType": "directed"
+        },
+        {
+          "id": "activity-cpd",
+          "label": "CPD",
+          "colour": "#cba6f7",
+          "activityType": "directed"
+        },
+        {
+          "id": "activity-duty",
+          "label": "Duty",
+          "colour": "#d4903a",
+          "activityType": "directed"
+        },
+        {
+          "id": "activity-meeting",
+          "label": "Meeting",
+          "colour": "#4a90d9",
+          "activityType": "directed"
+        },
+        {
+          "id": "activity-protected",
+          "label": "Protected time",
+          "colour": "#9070cc",
+          "activityType": "directed"
+        },
+        {
+          "id": "activity-trapped",
+          "label": "Trapped time",
+          "colour": "#89dceb",
+          "activityType": "directed"
+        },
+        {
+          "id": "activity-tutor",
+          "label": "Tutor",
+          "colour": "#f0956a",
+          "activityType": "directed"
+        }
+      ],
+      "dateEvents": [
+        {
+          "id": "devevent-1782878862392",
+          "date": "2026-06-29",
+          "periodId": "before-school",
+          "periodIds": [
+            "before-school"
+          ],
+          "classId": "",
+          "title": "Hello",
+          "colour": "#f6a9a9",
+          "isDirected": true,
+          "notes": "",
+          "durationMinutes": 60
+        }
+      ],
+      "slotExclusions": [],
+      "weekNotes": {},
+      "weekNoteFiles": true,
+      "notesHeight": 120,
+      "lessonNoteTemplate": "## Notes:\n---\n\n## Homework set:\n---\n\n## Next lesson:\n---\n",
+      "lessonNoteTitleTemplate": "{{date}} - {{period}} - {{class}} - {{emoji}} {{subject}}",
+      "eventNoteTitleTemplate": "{{date}} - {{period}} - {{event}}",
+      "directedTime": {
+        "enabled": true,
+        "contractedHours": 1265,
+        "timetablePercentage": 100,
+        "defaultLessonDurationMinutes": 60
+      },
+      "schoolDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "lessonPlanLinks": [],
+      "externalLinks": [],
+      "preparedMarks": []
+    }
+  ]
+}

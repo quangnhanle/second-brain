@@ -44,6 +44,10 @@
     "Paper": {
       "icon": "📰"
     },
+    "Todo": {
+      "icon": "lucide-list-todo",
+      "color": "#000000"
+    },
     "main.md": {
       "icon": "🌏"
     }
@@ -53,6 +57,42 @@
   "propertyIcons": {},
   "ribbonIcons": {},
   "fileRules": [
+    {
+      "id": "tIUjF",
+      "name": "Todo",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "contains",
+          "value": "Todo"
+        },
+        {
+          "source": "created",
+          "operator": "isToday"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-layout-list"
+    },
+    {
+      "id": "RjidT",
+      "name": "Done-Todo",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "contains",
+          "value": "Todo"
+        },
+        {
+          "source": "created",
+          "operator": "!isToday"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-list-check"
+    },
     {
       "id": "h7umk",
       "name": "File",
